@@ -1,0 +1,52 @@
+{
+	"basicdetails":{
+		"image":"bujji.jpeg",
+		 "name":"E.Bharathi",
+		 "Email":"erlabharathi@gmail.com",
+		 "phone":"7659970588",
+		 "address":"5-20,kanigiri"
+	},
+"education":[
+	{
+		"course":"B.Tech(c.s.e)",
+		"college":"vignan nirula ",
+		"percentage":"79%"
+	},
+	{
+		"course":"Intermediate(M.P.C)",
+		"college":"sri chaitanya jr clg",
+		 "percentage":"93%"
+	},
+	{
+		"course":"SSC",
+		"college":"pragathi vidya nilayam",
+		"percentage":"83%"
+	}
+],
+"skills":[
+	{
+		"name":"operating systems",
+		"value":"Windows,Linux,MAC"
+	},
+	{
+		"name":"Programming Languages",
+		"value":"c,c++,java,python"
+	}
+],
+	"carrier":{
+		"ca":"To be a part of highly motivated team and achieve a challenging position in s/w industry"
+	},
+	"achievements":[
+			"i had paricipated in many competitions and won 1 and 2 prizes"
+		],
+	"description":{
+	"des":"i hereby clarify the above mentioned information is true and correct to my knowledge and belief"
+		}
+
+	}
+
+
+
+
+
+
