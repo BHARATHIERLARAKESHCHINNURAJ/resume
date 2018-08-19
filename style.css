@@ -4,7 +4,6 @@
 	display:flex;
 	flex-wrap:wrap;
 	margin: 2px;
-	;
 }
 .first{
 	width:100%;
@@ -17,7 +16,7 @@
 	flex:1;
 	background-color:grey;
 	border:2px solid #000;
-	margin: 2px;
+	margin:2px;
 }
 .right{
 	flex:3;
@@ -81,7 +80,7 @@ table,td,tr{
 	display: flex;
 	flex-wrap: wrap;
 	margin: 2px;
-	flex-direction:column;	
+	flex-direction:row;	
 }
 .left{
 	flex:1;
